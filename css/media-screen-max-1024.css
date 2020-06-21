@@ -1,0 +1,13 @@
+@media screen and (max-width: 1024px){
+    header {
+        background-color:blue;
+    }
+    .contenedor-adornos{
+        right: inherit;
+
+    }
+    .contenedor-buscador{
+        bottom:40%;
+    }
+    
+}
